@@ -1,0 +1,1 @@
+a:4: {s: 9: "TestOrder";b: 1;s: 12: "CustomerName";s: 10: "Sem Koolen";s: 13: "CustomerEmail";s: 20: "sem.koolen@gmail.com";s: 10: "OrderItems";a: 1: {i:0;O: 8: "stdClass": 4:{s: 11: "ProductCode";s: 12: "E01-010507AA";s: 8: "Quantity";i: 1;s: 10: "LicenseKey";s: 0: "";s: 9: "LicenceId";s: 0: "";}}}

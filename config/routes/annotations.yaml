@@ -1,0 +1,16 @@
+IAmAliveControllers:
+    resource: ../../src/IAmAlive/Infrastructure/Controller/
+    type: annotation
+
+
+EsdPortalControllers:
+    resource: ../../src/EsdPortal/Infrastructure/Controller/
+    type: annotation
+
+EsetControllers:
+    resource: ../../src/Eset/Infrastructure/Controller/
+    type: annotation
+
+kernel:
+    resource: ../../src/Kernel.php
+    type: annotation

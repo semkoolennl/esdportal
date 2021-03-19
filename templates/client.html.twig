@@ -1,0 +1,19 @@
+{% extends 'base.html.twig' %}
+
+{% block title %} React Client Application {% endblock %}
+
+
+{% block stylesheets %}
+    {{ encore_entry_link_tags('Client') }}
+{% endblock %}
+
+
+{% block body %}
+    <div class="companyData" data-api-token="{{ api_token }}" hidden></div>
+    <div id="root"></div>
+{% endblock %}
+
+
+{% block javascripts %}
+   {{ encore_entry_script_tags('Client') }}
+{% endblock %}

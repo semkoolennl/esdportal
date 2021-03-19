@@ -1,0 +1,4 @@
+table_storage:
+    table_name: _migration_versions
+migrations_paths:
+    'App\Migrations\Eset': 'migrations/Eset'

@@ -1,0 +1,10 @@
+#doctrine_migrations:
+#    migrations_paths:
+#        'DoctrineMigrations': '%kernel.project_dir%/migrations/default'
+#    connection: default
+
+table_storage:
+    table_name: _migration_versions
+migrations_paths:
+    'App\Migrations\EsdPortal': 'migrations/EsdPortal'
+#organize_migrations: year
